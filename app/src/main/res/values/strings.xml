@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="loading_basket">Loading Basket ...</string>
+    <string name="loading">Loading ...</string>
+    <string name="title">title</string>
+    <string name="errorLoading">That didn\'t work!</string>
+
+    <string name="app_name" translatable="false">La bibliothèque d\'Henri Potier</string>
+</resources>
